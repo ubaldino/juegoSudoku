@@ -1,0 +1,25 @@
+#JSGF V1.0;
+grammar sentence;
+ 
+public <sentence> =
+[<dato0>]
+[<dato1>]
+[<dato2>]
+[<dato3>]
+[<dato4>]
+[<dato5>]
+[<dato6>]
+[<dato7>]
+[<dato8>]
+[<dato9>];
+ 
+<dato0>=cero;
+<dato1>=uno;
+<dato2>=dos;
+<dato3>=tres;
+<dato4>=cuatro;
+<dato5>=cinco;
+<dato6>=seis;
+<dato7>=siete;
+<dato8>=ocho;
+<dato9>=nueve;

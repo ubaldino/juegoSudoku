@@ -1,0 +1,19 @@
+
+
+dentro del proyecto
+carpeta  /lib
+
+copiar cgjsapi170.dll   X32 bits 
+o 
+cgjsapi170_x64.dll   X64 bits
+
+al system32 de windows
+
+puede q al abrir te pida  cgjsapi.jar
+lo agregas al netbeans
+
+el diccionario de palabras
+
+SimpleGrammarES2.txt
+
+lo colocas en la unidad C
